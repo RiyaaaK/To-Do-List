@@ -1,5 +1,6 @@
 ## 1. INITIAL SETUP
 **Objective**: Verify that the application initializes correctly.
+
 **Steps**:
 1. Open the application.
 2. Ensure that the application loads without any errors.
@@ -8,6 +9,7 @@
 
 ## 2.ADDING A NEW TODO
 **Objective**: Add a new task to the list.
+
 **Steps**:
 1. Add a task in the input area.
 2. Click on "Add Task" button.
@@ -16,6 +18,7 @@
 
 ## 3.MARKING A TASK AS COMPLETE / INCOMPLETE
 **Objective**: Marking the tasks as complete/incomplete.
+
 **Steps**:
 1. Click on a task to mark it as complete.
 2. Check if the task is striked through (i.e. it is marked as complete).
@@ -25,6 +28,7 @@
 
 ## 4.EDITING A TASK
 **Objective**:Allow the task to be edited.
+
 **Steps**:
 1. Click the "Delete" button next to a task.
 2. Confirm the deletion if prompted.
@@ -33,6 +37,7 @@
 
 ## 5. DELETING A TASK
 **Objective**: Ensure that tasks can be deleted.
+
 **Steps**:
 1. Click the "Delete" button next to a task.
 2. Confirm the deletion if prompted.
@@ -41,6 +46,7 @@
 
 ## 6. SORTING TASKS
 **Objective**: Test the sorting functionality.
+
 **Steps**:
 1. Add multiple tasks with different names.
 2. Click the "Sort A-Z" button.
@@ -51,6 +57,7 @@ Expected Result: Tasks should sort correctly according to the selected order.
 
 ## 7. FILTERING TASKS
 **Objective**: Ensure the application can filter tasks based on their completion status.
+
 **Steps**:
 1. Add multiple tasks and mark some as complete.
 2. Toggle the "Show completed tasks" checkbox.
@@ -60,6 +67,7 @@ Expected Result: Tasks should sort correctly according to the selected order.
 
 ## 8. LOCAL STORAGE INTEGRATION
 **Objective**: Confirm that tasks are saved and loaded from local storage.
+
 **Steps**:
 1. Add a few tasks.
 2. Refresh the page.
@@ -68,6 +76,7 @@ Expected Result: Tasks should sort correctly according to the selected order.
 
 ## 9.BLANK INPUT
 **Objective**: Check whether the list allows blank tasks.
+
 **Steps**:
 1. Enter a blank task in the input field.
 2. Check whether the list allows a blank task.
@@ -75,6 +84,7 @@ Expected Result: Tasks should sort correctly according to the selected order.
 
 ## 10.CHECK WITH LARGE AMOUNT OF INPUTS
 **Objective** : Add a large amount of tasks to check the effect on performance.
+
 **Steps**:
 1. Add a large amount of tasks.
 2. Check whether the application is works the same as in it did in its previous state.
