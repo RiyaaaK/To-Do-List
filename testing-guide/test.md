@@ -24,7 +24,7 @@
 **Expected Results**: The user should be able to mark a task as complete or incomplete.
 
 ## 4.EDITING A TASK
-** Objective **:Allow the task to be edited.
+**Objective**:Allow the task to be edited.
 **Steps**:
 1. Click the "Delete" button next to a task.
 2. Confirm the deletion if prompted.
